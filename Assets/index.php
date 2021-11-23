@@ -321,7 +321,7 @@
 		<div id="contact" class="footer">
 			<hr>
 			<h2 class="foot-text">Contact Us!</h2>
-			<h3 class="foot-text">Developers: Ayush,Aryan,Harsha</h3><br>
+			<h3 class="foot-text">Developer: Subrat Kumar</h3><br>
 			<a href="footer.php">Contact US Via</a>
 		</div>
 	</body>
